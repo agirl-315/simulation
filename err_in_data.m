@@ -43,9 +43,7 @@ R(1) = 96;
 W(1) = 120;
 I(1,1)= 95; 
 I1(1) = 95;
-% for n = 1:length(t)
-%     I(n,1) = 95;     
-% end
+
 
 
 for n = 2:length(t)
