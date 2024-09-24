@@ -21,3 +21,5 @@ gamma1eta: After decompressing, there are three m files, "err_in_data", "main", 
 sigmac: After decompressing, there are three m files, "err_in_data", "main", and "Model_l". The file named "main" (where "err_in_data" and "Model_l" are the required functions) can be executed to reproduce the (d) image in Figure 3.
 
 sigmagamma1: After decompressing, there are three m files, "err_in_data", "main", and "Model_l". The file named "main" (where "err_in_data" and "Model_l" are the required functions) can be executed to reproduce the (i) image in Figure 3.
+
+PRCC: After decompressing, there are two m files, "prccfinall" and "Model_l". The file named "prccfinall" (where "Model_l" are the required function) can be executed to reproduce the (a) image in Figure 7. And hide line 107 of file "prccfinall" and remove the hidden line 106, resulting in (b) image in Figure 7.
